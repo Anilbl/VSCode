@@ -1,0 +1,2 @@
+# VSCode
+This repo is to practice git commands
